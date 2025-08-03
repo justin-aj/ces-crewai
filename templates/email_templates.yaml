@@ -1,0 +1,65 @@
+professional_application:
+  structure: |
+    Subject: [Specific, intriguing subject line]
+    
+    Hi [Name],
+    
+    [Personalized opening showing research - 1 sentence]
+    
+    [Brief introduction - who you are - 2 sentences max]
+    
+    [2-3 specific value propositions with examples:
+     - How your experience solves their problems
+     - Specific achievement relevant to role
+     - Unique skill that matches their needs]
+    
+    [Connection to company mission/recent news - 1 sentence]
+    
+    [Clear call-to-action - 1 sentence]
+    
+    [Professional closing]
+    [Your name]
+
+tech_startup:
+  tone: "Casual, enthusiastic, direct"
+  example: |
+    Subject: Scaling Python APIs to 1M+ requests - Interested in [Company]'s Challenge
+    
+    Hi [Name],
+    
+    Saw [Company]'s recent $10M raise for scaling your platform - congrats! 
+    
+    I'm a backend engineer who recently helped my team handle 10x traffic growth using similar tech to your stack (Python/K8s).
+    
+    Three ways I could contribute immediately:
+    • Optimized our API response time by 70% using async patterns
+    • Built auto-scaling that cut infrastructure costs 40%
+    • Led migration to microservices without downtime
+    
+    Your mission to [specific mission point] resonates with me because [personal connection].
+    
+    Would love to chat about how I could help [Company] scale efficiently. Free for a quick call this week?
+    
+    Best,
+    [Your name]
+
+enterprise:
+  tone: "Formal, results-focused, data-driven"
+  example: |
+    Subject: Enterprise Security Solutions Architect - Reducing Risk for [Company]
+    
+    Dear [Name],
+    
+    Your recent initiative to strengthen [Company]'s cybersecurity infrastructure aligns perfectly with my expertise in enterprise security architecture.
+    
+    As a Senior Security Architect at [Current Company], I have:
+    • Designed zero-trust architecture serving 50,000+ employees
+    • Reduced security incidents by 85% through proactive monitoring
+    • Led SOC2 compliance achieving certification in record time
+    
+    I'm particularly interested in [Company]'s approach to [specific security challenge] and believe my experience with [relevant technology] could accelerate your objectives.
+    
+    I would welcome the opportunity to discuss how my background could contribute to [Company]'s security goals. Are you available for a brief conversation next week?
+    
+    Sincerely,
+    [Your name]
