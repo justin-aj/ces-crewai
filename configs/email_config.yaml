@@ -1,0 +1,37 @@
+sending:
+  rate_limit:
+    emails_per_hour: 20
+    emails_per_day: 100
+    delay_between_emails: 45  # seconds
+
+  time_window:
+    start_hour: 9   # 9 AM
+    end_hour: 17    # 5 PM
+    timezone: "US/Pacific"
+    skip_weekends: true
+
+  retry:
+    max_attempts: 3
+    backoff_seconds: 300
+
+personalization:
+  min_quality_score: 7.0
+  require_company_research: true
+  max_email_length: 250  # words
+  min_email_length: 100  # words
+
+tracking:
+  enable_open_tracking: false
+  enable_link_tracking: false
+  track_responses: true
+
+attachments:
+  include_resume: true
+  resume_path: "data/resume.pdf"
+  max_attachment_size: 5  # MB
+
+follow_up:
+  enable_follow_ups: true
+  first_follow_up_days: 7
+  second_follow_up_days: 14
+  max_follow_ups: 2

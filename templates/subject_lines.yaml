@@ -1,0 +1,38 @@
+patterns:
+  achievement_based:
+    - "[Specific achievement] - Excited about [Company] [Position]"
+    - "Helped [Previous company] achieve [Result] - Interested in [Position]"
+    - "[Metric] improvement in [Area] - [Your expertise] for [Company]"
+
+  problem_solution:
+    - "Solving [Company]'s [Specific challenge] with [Your skill]"
+    - "Ideas for [Company]'s [Recent initiative]"
+    - "[Industry trend] expertise for [Company]'s growth"
+
+  connection_based:
+    - "[Mutual connection] suggested I reach out - [Position]"
+    - "Fellow [University/Company] alum interested in [Position]"
+    - "Met at [Event] - Following up on [Position]"
+
+  research_based:
+    - "Re: [Company]'s recent [News/Achievement] - [Your relevance]"
+    - "Thoughts on [Company]'s [Product/Initiative]"
+    - "[Company]'s mission + my [Specific expertise]"
+
+  value_proposition:
+    - "[Specific skill] expert ready to help [Company] [Goal]"
+    - "3 ways I can help [Company] [Objective]"
+    - "[Your unique value] for [Company]'s [Team/Project]"
+
+examples:
+  good:
+    - "Scaled APIs to 1M requests/day - Interested in Backend Role"
+    - "Re: TechCo's AWS Migration - Cloud Architect Available"
+    - "Python ML Engineer - Excited about your AI Initiative"
+    - "Cut deployment time 80% - DevOps for your scaling team"
+
+  bad:
+    - "Application for Software Engineer Position"
+    - "Interested in your Job Posting"
+    - "Experienced Developer Seeking Opportunity"
+    - "My Resume for Your Review"

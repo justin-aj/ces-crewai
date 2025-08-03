@@ -1,0 +1,109 @@
+personal_info:
+  name: "John Smith"
+  title: "Senior Software Engineer"
+  email: "john.smith@email.com"
+  phone: "+1-555-123-4567"
+  location: "San Francisco, CA"
+  linkedin: "https://linkedin.com/in/johnsmith"
+  github: "https://github.com/johnsmith"
+  portfolio: "https://johnsmith.dev"
+
+professional_summary: |
+  Experienced software engineer with 7+ years building scalable applications.
+  Specialized in Python, cloud architecture, and machine learning systems.
+  Passionate about solving complex problems and mentoring teams.
+
+skills:
+  languages:
+    - Python
+    - JavaScript
+    - TypeScript
+    - Go
+    - SQL
+
+  frameworks:
+    - Django
+    - FastAPI
+    - React
+    - Node.js
+    - TensorFlow
+
+  tools:
+    - Docker
+    - Kubernetes
+    - AWS
+    - GCP
+    - PostgreSQL
+    - Redis
+    - Elasticsearch
+
+  specialties:
+    - API Design
+    - Microservices
+    - Machine Learning
+    - System Architecture
+    - Performance Optimization
+
+experience:
+  - company: "TechCorp Inc"
+    position: "Senior Software Engineer"
+    duration: "2021-Present"
+    achievements:
+      - description: "Led migration to microservices architecture serving 5M+ users"
+        impact: "Reduced latency by 60% and improved system reliability"
+      - description: "Built ML pipeline for recommendation system"
+        impact: "Increased user engagement by 35%"
+      - description: "Mentored team of 5 junior developers"
+        impact: "100% of mentees promoted within 18 months"
+
+  - company: "StartupXYZ"
+    position: "Software Engineer"
+    duration: "2018-2021"
+    achievements:
+      - description: "Developed core API platform from scratch"
+        impact: "Scaled from 0 to 100k daily active users"
+      - description: "Implemented automated testing framework"
+        impact: "Reduced bug rate by 75%"
+
+education:
+  - degree: "BS Computer Science"
+    school: "University of California, Berkeley"
+    year: "2017"
+    gpa: "3.8/4.0"
+
+certifications:
+  - "AWS Certified Solutions Architect"
+  - "Google Cloud Professional Developer"
+  - "Kubernetes Certified Administrator"
+
+achievements:
+  - description: "Open source contributor to major Python projects"
+    details: "Core contributor to FastAPI with 50+ merged PRs"
+  - description: "Speaker at PyCon 2023"
+    details: "Presented on 'Scaling Python Applications in Production'"
+  - description: "Built COVID-19 tracking dashboard"
+    details: "Used by 100k+ people during pandemic"
+
+interests:
+  - "Open Source Development"
+  - "Machine Learning Research"
+  - "Technical Writing"
+  - "Mentoring"
+
+preferences:
+  target_roles:
+    - "Senior Software Engineer"
+    - "Staff Engineer"
+    - "Technical Lead"
+    - "ML Engineer"
+
+  target_companies:
+    - "Innovation-focused tech companies"
+    - "AI/ML startups"
+    - "Companies with strong engineering culture"
+
+  important_factors:
+    - "Technical challenges"
+    - "Growth opportunities"
+    - "Work-life balance"
+    - "Remote flexibility"
